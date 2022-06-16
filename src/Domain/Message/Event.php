@@ -3,9 +3,9 @@
 namespace API\Domain\Message;
 
 use Exception;
-use API\Message\Message;
+use Kdubuc\Message\Message;
 use API\Domain\ValueObject\ID;
-use API\Message\Event\Event as BaseEvent;
+use Kdubuc\Message\Event\Event as BaseEvent;
 
 abstract class Event extends BaseEvent
 {
