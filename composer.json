@@ -20,7 +20,7 @@
     ],
 
     "require": {
-        "php": "^7.1",
+        "php": "^7.1 || ^8.0",
         "kdubuc/message": "dev-master",
         "kdubuc/ddd": "dev-master",
         "mongodb/mongodb": "^1.1"
